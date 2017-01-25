@@ -1,0 +1,8 @@
+#!/bin/bash
+
+ln -s vim ~/.vim
+ln -s vim_mru_files ~/.vim_mru_files
+ln -s vim_runtime ~/.vim_runtime
+ln -s viminfo ~/.viminfo
+ln -s vimrc ~/.vimrc
+ln -s vimrc.bundles ~/.vimrc.bundles
